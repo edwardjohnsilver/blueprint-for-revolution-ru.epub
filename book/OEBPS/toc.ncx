@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+
+    <head>
+        <meta name="dtb:uid" content="63f8a098-57de-43e4-a484-88a821f5fbc9" />
+        <meta name="dtb:generator" content="epub-gen" />
+        <meta name="dtb:depth" content="1" />
+        <meta name="dtb:totalPageCount" content="0" />
+        <meta name="dtb:maxPageNumber" content="0" />
+    </head>
+    <docTitle>
+        <text>Blueprint for Revolution (ru)</text>
+    </docTitle>
+    <docAuthor>
+        <text>Srdja Popovic, Matthew Miller</text>
+    </docAuthor>
+    <navMap>
+        <navPoint id="toc" playOrder="0" class="chapter">
+            <navLabel>
+                <text>Содержание</text>
+            </navLabel>
+            <content src="toc.xhtml" />
+        </navPoint>
+        <navPoint id="content_0_item_0" playOrder="1" class="chapter">
+            <navLabel>
+                <text>1.
+                    Глава 1: Здесь такого никогда не случится</text>
+            </navLabel>
+            <content src="0_гnава-1-здесь-такого-никогда-не-сnучится.xhtml" />
+        </navPoint>
+        <navPoint id="content_1_item_1" playOrder="2" class="chapter">
+            <navLabel>
+                <text>2.
+                    Глава 2: Мечтай о большем, начинай с малого</text>
+            </navLabel>
+            <content src="1_гnава-2-мечтай-о-боnьшем-начинай-с-маnого.xhtml" />
+        </navPoint>
+        <navPoint id="content_2_item_2" playOrder="3" class="chapter">
+            <navLabel>
+                <text>3.
+                    Глава 3: Видение завтрашнего дня</text>
+            </navLabel>
+            <content src="2_гnава-3-видение-завтрашнего-дня.xhtml" />
+        </navPoint>
+        <navPoint id="content_3_item_3" playOrder="4" class="chapter">
+            <navLabel>
+                <text>4.
+                    Глава 4: Столпы власти</text>
+            </navLabel>
+            <content src="3_гnава-4-стоnпы-вnасти.xhtml" />
+        </navPoint>
+        <navPoint id="content_4_item_4" playOrder="5" class="chapter">
+            <navLabel>
+                <text>5.
+                    Глава 5: Смейся на пути к победе</text>
+            </navLabel>
+            <content src="4_гnава-5-смейся-на-пути-к-победе.xhtml" />
+        </navPoint>
+        <navPoint id="content_5_item_5" playOrder="6" class="chapter">
+            <navLabel>
+                <text>6.
+                    Глава 6: Заставь репрессии работать на себя</text>
+            </navLabel>
+            <content src="5_гnава-6-заставь-репрессии-работать-на-себя.xhtml" />
+        </navPoint>
+        <navPoint id="content_6_item_6" playOrder="7" class="chapter">
+            <navLabel>
+                <text>7.
+                    Глава 7: Это единство, детка!</text>
+            </navLabel>
+            <content src="6_гnава-7-это-единство-детка.xhtml" />
+        </navPoint>
+        <navPoint id="content_7_item_7" playOrder="8" class="chapter">
+            <navLabel>
+                <text>8.
+                    Глава 8: Планируйте свой путь к победе</text>
+            </navLabel>
+            <content src="7_гnава-8-пnанируйте-свой-путь-к-победе.xhtml" />
+        </navPoint>
+        <navPoint id="content_8_item_8" playOrder="9" class="chapter">
+            <navLabel>
+                <text>9.
+                    Глава 9: Демоны насилия</text>
+            </navLabel>
+            <content src="8_гnава-9-демоны-насиnия.xhtml" />
+        </navPoint>
+        <navPoint id="content_9_item_9" playOrder="10" class="chapter">
+            <navLabel>
+                <text>10.
+                    Глава 10: Завершите начатое</text>
+            </navLabel>
+            <content src="9_гnава-10-завершите-начатое.xhtml" />
+        </navPoint>
+        <navPoint id="content_10_item_10" playOrder="11" class="chapter">
+            <navLabel>
+                <text>11.
+                    Глава 11: Это должен быть ты</text>
+            </navLabel>
+            <content src="10_гnава-11-это-доnжен-быть-ты.xhtml" />
+        </navPoint>
+        <navPoint id="num_13" playOrder="13">
+            <navLabel>
+                <text>Прежде чем попрощаться</text>
+            </navLabel>
+            <content src="11_Прежде-чем-попрощаться.xhtml" />
+        </navPoint>
+        <navPoint id="num_14" playOrder="14">
+            <navLabel>
+                <text>Фильм "Свержение диктатора"</text>
+            </navLabel>
+            <content src="12_Фильм-Свержение-диктатора.xhtml" />
+        </navPoint>
+    </navMap>
+</ncx>
