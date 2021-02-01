@@ -53,6 +53,8 @@
         <itemref idref="content_8_item_8" />
         <itemref idref="content_9_item_9" />
         <itemref idref="content_10_item_10" />
+        <itemref idref="id" />
+        <itemref idref="id-1" />
     </spine>
     <guide>
         <reference type="text" title="Table of Content" href="toc.xhtml" />
