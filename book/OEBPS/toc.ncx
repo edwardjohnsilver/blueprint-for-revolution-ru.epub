@@ -23,78 +23,67 @@
         </navPoint>
         <navPoint id="content_0_item_0" playOrder="1" class="chapter">
             <navLabel>
-                <text>1.
-                    Глава 1: Здесь такого никогда не случится</text>
+                <text>Глава 1: Здесь такого никогда не случится</text>
             </navLabel>
             <content src="0_гnава-1-здесь-такого-никогда-не-сnучится.xhtml" />
         </navPoint>
         <navPoint id="content_1_item_1" playOrder="2" class="chapter">
             <navLabel>
-                <text>2.
-                    Глава 2: Мечтай о большем, начинай с малого</text>
+                <text>Глава 2: Мечтай о большем, начинай с малого</text>
             </navLabel>
             <content src="1_гnава-2-мечтай-о-боnьшем-начинай-с-маnого.xhtml" />
         </navPoint>
         <navPoint id="content_2_item_2" playOrder="3" class="chapter">
             <navLabel>
-                <text>3.
-                    Глава 3: Видение завтрашнего дня</text>
+                <text>Глава 3: Видение завтрашнего дня</text>
             </navLabel>
             <content src="2_гnава-3-видение-завтрашнего-дня.xhtml" />
         </navPoint>
         <navPoint id="content_3_item_3" playOrder="4" class="chapter">
             <navLabel>
-                <text>4.
-                    Глава 4: Столпы власти</text>
+                <text>Глава 4: Столпы власти</text>
             </navLabel>
             <content src="3_гnава-4-стоnпы-вnасти.xhtml" />
         </navPoint>
         <navPoint id="content_4_item_4" playOrder="5" class="chapter">
             <navLabel>
-                <text>5.
-                    Глава 5: Смейся на пути к победе</text>
+                <text>Глава 5: Смейся на пути к победе</text>
             </navLabel>
             <content src="4_гnава-5-смейся-на-пути-к-победе.xhtml" />
         </navPoint>
         <navPoint id="content_5_item_5" playOrder="6" class="chapter">
             <navLabel>
-                <text>6.
-                    Глава 6: Заставь репрессии работать на себя</text>
+                <text>Глава 6: Заставь репрессии работать на себя</text>
             </navLabel>
             <content src="5_гnава-6-заставь-репрессии-работать-на-себя.xhtml" />
         </navPoint>
         <navPoint id="content_6_item_6" playOrder="7" class="chapter">
             <navLabel>
-                <text>7.
-                    Глава 7: Это единство, детка!</text>
+                <text>Глава 7: Это единство, детка!</text>
             </navLabel>
             <content src="6_гnава-7-это-единство-детка.xhtml" />
         </navPoint>
         <navPoint id="content_7_item_7" playOrder="8" class="chapter">
             <navLabel>
-                <text>8.
-                    Глава 8: Планируйте свой путь к победе</text>
+                <text>Глава 8: Планируйте свой путь к победе</text>
             </navLabel>
             <content src="7_гnава-8-пnанируйте-свой-путь-к-победе.xhtml" />
         </navPoint>
         <navPoint id="content_8_item_8" playOrder="9" class="chapter">
             <navLabel>
-                <text>9.
-                    Глава 9: Демоны насилия</text>
+                <text>Глава 9: Демоны насилия</text>
             </navLabel>
             <content src="8_гnава-9-демоны-насиnия.xhtml" />
         </navPoint>
         <navPoint id="content_9_item_9" playOrder="10" class="chapter">
             <navLabel>
-                <text>10.
-                    Глава 10: Завершите начатое</text>
+                <text>Глава 10: Завершите начатое</text>
             </navLabel>
             <content src="9_гnава-10-завершите-начатое.xhtml" />
         </navPoint>
         <navPoint id="content_10_item_10" playOrder="11" class="chapter">
             <navLabel>
-                <text>11.
-                    Глава 11: Это должен быть ты</text>
+                <text>Глава 11: Это должен быть ты</text>
             </navLabel>
             <content src="10_гnава-11-это-доnжен-быть-ты.xhtml" />
         </navPoint>
